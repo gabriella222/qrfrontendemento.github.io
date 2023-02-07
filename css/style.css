@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #D7E2F7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.img-qrcode img {
+  max-width: 100%;
+  border-radius: 25px;
+}
+
+
+.card-principal{
+  background-color: #ffff;
+  width: 350px;
+  padding: 20px;
+  border-radius: 25px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+h1{
+  font-size: 1.5rem;
+  color: #173A7E;
+}
+.paragrafo{
+   color: #9FA8AC;
+}
